@@ -1,0 +1,14 @@
+{
+  "name": "ratio",
+  "repo": "jb55/ratio",
+  "description": "javascript ratios",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "browser.js",
+  "scripts": [
+    "browser.js"
+  ]
+}
