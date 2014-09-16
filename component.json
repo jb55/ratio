@@ -4,11 +4,13 @@
   "description": "javascript ratios",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "jb55/gcd": "*"
+  },
   "development": {},
   "license": "MIT",
-  "main": "browser.js",
+  "main": "index.js",
   "scripts": [
-    "browser.js"
+    "index.js"
   ]
 }
